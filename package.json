@@ -1,0 +1,15 @@
+{
+  "name": "aryabhatta",
+  "version": "1.0.0",
+  "description": "It is a handy library which provides various functions related to numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "numbers",
+    "mathematics"
+  ],
+  "author": "Raghu Gannaram",
+  "license": "ISC"
+}
